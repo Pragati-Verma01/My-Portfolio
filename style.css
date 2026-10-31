@@ -30,7 +30,8 @@ body {
     background-color: #111c31;
     border-bottom: 1px solid #334155;
     position:sticky;
-    top:0px;
+    top:0;
+    z-index:9999;
 }
 
 .logo {
